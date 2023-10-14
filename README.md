@@ -98,4 +98,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-Este es un ejemplo básico de un archivo README.md para tu API de gestión universitaria. Asegúrate de personalizarlo y agregar más detalles según las necesidades de tu proyecto. Además, no olvides crear documentación adicional si es necesario para explicar en detalle cómo utilizar la API.
+

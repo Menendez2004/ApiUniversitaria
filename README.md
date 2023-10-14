@@ -1,8 +1,14 @@
 # API de Gestión Universitaria
 
-Este proyecto es una API desarrollada en Node.js y Express que proporciona servicios para la gestión de procesos universitarios, como el registro de materias, estudiantes y nuevas carreras universitarias.
+Este proyecto es una API desarrollada en 
 
-## Tabla de Contenidos
+| Tecnología         | Descripción                                |
+| ------------------ | ------------------------------------------ |
+| Node.js            | Entorno de tiempo de ejecución de JavaScript en el servidor. |
+| Express            | Framework de Node.js para construir aplicaciones web y APIs. |
+| MySQL              | Sistema de gestión de bases de datos relacional. |
+| Otros              | (Listar aquí cualquier otra tecnología o biblioteca importante utilizada en el proyecto.) |
+
 
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
@@ -66,35 +72,11 @@ La API estará disponible en `http://localhost:3000` (o el puerto que hayas conf
 
 Puedes encontrar la documentación de la API en el archivo [API_DOCUMENTATION.md](API_DOCUMENTATION.md) para obtener información detallada sobre los endpoints, parámetros y respuestas.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Crea una rama con un nombre descriptivo:
-
-   ```bash
-   git checkout -b nombre-de-rama
-   ```
-
-2. Realiza tus cambios y asegúrate de que las pruebas pasen.
-
-3. Realiza un commit de tus cambios:
-
-   ```bash
-   git commit -m "Descripción de tus cambios"
-   ```
-
-4. Sube tus cambios a GitHub:
-
-   ```bash
-   git push origin nombre-de-rama
-   ```
-
-5. Crea una solicitud de extracción (PR) en GitHub y describe tus cambios en detalle.
 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
 ---
+
 

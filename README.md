@@ -15,7 +15,6 @@ Este proyecto es una API desarrollada en
 - [Configuración](#configuración)
 - [Uso](#uso)
 - [Documentación](#documentación)
-- [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Requisitos

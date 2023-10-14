@@ -69,7 +69,8 @@ La API estará disponible en `http://localhost:3000` (o el puerto que hayas conf
 
 ## Documentación
 
-Puedes encontrar la documentación de la API en el archivo [API_DOCUMENTATION.md](API_DOCUMENTATION.md) para obtener información detallada sobre los endpoints, parámetros y respuestas.
+la documentación de la api esta en proceso, si deseas saber sobre ella puedes contactarte con mi persona por medio de github
+
 
 
 ## Licencia

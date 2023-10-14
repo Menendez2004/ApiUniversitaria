@@ -45,11 +45,11 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 Antes de ejecutar la API, asegúrate de configurar las variables de entorno necesarias. Crea un archivo `.env` en la raíz del proyecto y configura las siguientes variables:
 
 ```
-DB_HOST=nombre-de-tu-host-de-MySQL
-DB_USER=nombre-de-usuario-de-MySQL
-DB_PASSWORD=contraseña-de-MySQL
-DB_DATABASE=nombre-de-tu-base-de-datos
-PORT=3000 # Puerto en el que se ejecutará el servidor
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=colores8Q
+DB_DATABASE=api_udb
+PORT=3307 # Puerto en el que se ejecutará el servidor
 ```
 
 ## Uso
